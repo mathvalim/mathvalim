@@ -4,10 +4,9 @@
   <a href = "https://www.linkedin.com/in/matheus-antonio-aguiar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href = "https://github.com/mathvalim">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-    </a>
 </div>
+
+<br>
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba, onde estou no terceiro semestre. Procuro aprender cada vez mais e estou em busca de minha primeira oportunidade na área!
 
