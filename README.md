@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou o Matheus
+# Olá! Eu sou o Matheus
 
 <div id="badges">
   <a href = "https://www.linkedin.com/in/matheus-antonio-aguiar/">
@@ -10,7 +10,7 @@
 
 Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba, onde me encontro no terceiro semestre. Procuro aprender cada vez mais e estou em busca de minha primeira oportunidade na área!
 
-## Skill Set :muscle:
+## Skill Set
 
 Algumas tecnologias que já estudei e estou aprimorando:
 
@@ -24,6 +24,4 @@ Algumas tecnologias que já estudei e estou aprimorando:
 <img title="HTML5" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">|<img title="CSS3" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">|<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 |--|--|--|
 
-
-<br>
 
