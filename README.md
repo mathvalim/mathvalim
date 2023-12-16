@@ -8,7 +8,7 @@
 
 <br>
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba, onde estou no terceiro semestre. Procuro aprender cada vez mais e estou em busca de minha primeira oportunidade na área!
+Atualmente curso Análise e Desenvolvimento de Sistemas na FATEC Indaiatuba, onde me encontro no terceiro semestre. Procuro aprender cada vez mais e estou em busca de minha primeira oportunidade na área!
 
 ## Skill Set :muscle:
 
